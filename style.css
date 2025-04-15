@@ -25,8 +25,26 @@ background-color: rgb(11, 131, 243);
     background-color: rgb(233, 15, 167);
 }
 
+.quadrado{
+    width: 180px;
+    height: 181px;
+    background-color: rgb(255, 255, 255);
+}
+
+.retangulo{
+    width: 156px;
+    height: 232px;
+    background-color: rgb(255, 255, 255);
+}
+
 .terceira_secao{
     width: 360px;
     height: 185px;
     background-color: rgb(197, 15, 233);
+}
+
+.retangulo{
+    width: 79px;
+    height: 150px;
+    background-color: rgb(255, 255, 255);
 }
