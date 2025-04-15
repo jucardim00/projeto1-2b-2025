@@ -1,6 +1,23 @@
 .cabecalho{
 width: 360px;
 height: 94px;
-background-color: brown;
+background-color: rgb(11, 131, 243);
 
+}
+.primeira_secao{
+     width: 360px;
+     height: 225px;
+     background-color: rgb(53, 241, 241);
+}
+
+.segunda_secao{
+    width: 360px;
+    height: 251px;
+    background-color: rgb(233, 15, 167);
+}
+
+.terceira_secao{
+    width: 360px;
+    height: 185px;
+    background-color: rgb(197, 15, 233);
 }
